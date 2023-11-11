@@ -1,3 +1,8 @@
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+</h1>
+
 # 💫 About Me:
 👾- Hello, my name is Daniel Lima.<br><br>👾- My name is Daniel Lima and I'm excited to share a little about my journey as a FullStack Junior Developer student.<br><br>👾- I'm currently venturing into JAVA.
 
