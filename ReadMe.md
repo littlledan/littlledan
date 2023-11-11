@@ -1,3 +1,4 @@
+https://github.com/littlledan/littlledan/assets/148507447/e8ce1b31-7f0c-4dd5-b30c-3cd109a1296b
 # 💫 About Me:
 👾- Hello, my name is Daniel Lima.<br><br>👾- My name is Daniel Lima and I'm excited to share a little about my journey as a FullStack Junior Developer student.<br><br>👾- I'm currently venturing into JAVA.
 
