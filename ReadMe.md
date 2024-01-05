@@ -1,7 +1,7 @@
 
 ![ezgif com-optimize](https://github.com/littlledan/littlledan/assets/148507447/3ff69fdb-d0bb-468a-9423-f7902038f5ee)
 
-👾- My name is Daniel Lima and I'm excited to share a little about my journey as a FullStack Junior Developer student.<br><br>👾- I'm currently venturing into JAVA.
+👾- My name is Daniel Lima and I'm excited to share a little about my journey as a Fullstack Web Developer.<br><br>👾- I'm currently venturing into JAVA.
 
 
 ## 🌐 Socials:
